@@ -56,10 +56,5 @@ Open the SQL file (data_cleaning.sql)
 
 Run the queries step by step in MySQL
 
-مشاهده تغییرات روی داده‌ها
 
-
-
-📎 Project Structure
-data_cleaning.sql → main SQL script
 
